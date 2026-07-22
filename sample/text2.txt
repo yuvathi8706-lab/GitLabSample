@@ -1,0 +1,7 @@
+File text2
+Contents
+
+Modified from terminal
+
+Modified for stash
+
