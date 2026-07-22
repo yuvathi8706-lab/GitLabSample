@@ -1,3 +1,5 @@
 Git Lab Exercise week3
 22-07-2026
 Hello from this side!
+
+New line after initial commit
